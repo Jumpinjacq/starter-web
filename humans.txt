@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jacques Vachon email@gmail.com twitter@twitter
 
 # THANKS
 
