@@ -20,4 +20,5 @@ Please fork this repository and then issue Pull Requestos for the erview
 
 ### Copyright 
 
-Git -Training
+Git -Training. ALl rights reserbed
+
