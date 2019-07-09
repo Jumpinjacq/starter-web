@@ -14,3 +14,6 @@ ANother info about the purpose of this doc
 
 deployment info   I'm adding mor into
 
+### Copyright 
+
+Git -Training
