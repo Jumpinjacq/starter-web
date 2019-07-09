@@ -4,7 +4,7 @@ adfasdfasdfasdfasdf
 
 ## Introduction
 
-This is an eample of sdfsdfsdf. Adding a line for rebaing example
+This is an eample of sdfsdfsdf. Adding a line for rebasing example, then more changes from  myfeatuyer too
 
 ## Purpose
 
