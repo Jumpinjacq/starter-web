@@ -14,6 +14,10 @@ ANother info about the purpose of this doc
 
 deployment info   I'm adding mor into
 
+## How to Contribute
+
+Please fork this repository and then issue Pull Requestos for the erview
+
 ### Copyright 
 
 Git -Training
