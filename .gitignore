@@ -1,2 +1,3 @@
 -w
-*.log
+log/
+*.orig
